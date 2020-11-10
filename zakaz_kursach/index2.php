@@ -4,15 +4,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="initial-scale=1.0, width=device-width">
     <title>Автор24 - Сервис для Студентов</title>
-    <link rel="stylesheet" href="css/main.css">
-    <link rel="stylesheet" href="css/bundle.css">
+    <link rel="stylesheet" href="css/bundle.min.css">
   </head>
   <body class="template-base">
     <header class="header"><img class="header__logo" src="img/logo.png" alt=""><a class="btn-light" href="#">Войти</a></header>
     <div class="layout-1">
       <div class="layout-1__main">
-        <div class="layout-1__info">
-          <img class="layout-1__info-men" src="img/men-1-small.png" alt="">
+        <div class="layout-1__info"><img class="layout-1__info-men" src="img/men-2-small.png" alt="">
           <h1 class="layout-1__info-title">Курсовые работы <span>на заказ</span></h1>
           <p class="layout-1__info-text">Автор24 - это интернет-биржа заказчиков и авторов студенческих работ. На нашем сайте вы можете заказать работу напрямую у любого из 72 000 авторов, не переплачивая агентствам и другим посредникам.</p>
         </div>

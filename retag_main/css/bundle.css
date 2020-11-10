@@ -1534,7 +1534,7 @@ body
             box-sizing: border-box;
     padding: 10.9375rem 10% 3.125rem;
 
-    background-image: url('../img/layout-1-bg.jpg');
+    background-image: url('../img/layout-1-bg-.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -1545,7 +1545,7 @@ body
     .layout-1
     {
         padding: 5rem 5% 1.5625rem;
-
+        background-image: url('../img/layout-1-bg-mobile.jpg');
         background-attachment: initial;
     }
 }

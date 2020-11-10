@@ -8,34 +8,32 @@
   </head>
   <body class="template-base">
     <header class="header"><img class="header__logo" src="img/logo.png" alt=""><a class="btn-light" href="#">Войти</a></header>
-    <div class="layout-3">
-      <div class="layout-3__main">
-        <div class="layout-3__info">
-          <h1 class="layout-3__info-title">Курсовые работы <span>на заказ</span></h1>
-          <p class="layout-3__info-text">Автор24 - это интернет-биржа заказчиков и авторов студенческих работ. На нашем сайте вы можете заказать работу напрямую у любого из 72 000 авторов, не переплачивая агентствам и другим посредникам.</p>
-        </div><img class="layout-3__men" src="img/men-3.png" alt="">
-        <div class="layout-3__form">
-          <div class="form-marketeng form-marketeng--vertical">
-            <div class="form-marketeng__title">Узнай стоимость написания твоей работы</div>
-            <form class="form-marketeng__main">
-              <input class="input-text" type="text" placeholder="Тема работы">
-              <select class="select">
-                <option>Курсовая работа</option>
-                <option>Курсовая работа 2</option>
-                <option>Курсовая работа 3</option>
-                <option>Курсовая работа 4</option>
-                <option>Курсовая работа 5</option>
-              </select>
-              <input class="input-text" type="text" placeholder="Твой email">
-              <div class="form-marketeng__discount"><span class="form-marketeng__discount-emoji">🤑 </span> Бонус! Дарим 100 ₽ при регистрации <span class="form-marketeng__discount-emoji">🤑 </span></div>
-              <button class="btn">узнать стоимость</button>
-            </form>
-          </div>
+    <div class="layout-1">
+      <div class="layout-1__main">
+        <div class="layout-1__info">
+          <img class="layout-1__info-men" src="img/men-1-small.png" alt="">
+          <h1 class="layout-1__info-title">Курсовые работы <span>на заказ</span></h1>
+          <p class="layout-1__info-text">Автор24 - это интернет-биржа заказчиков и авторов студенческих работ. На нашем сайте вы можете заказать работу напрямую у любого из 72 000 авторов, не переплачивая агентствам и другим посредникам.</p>
         </div>
+      </div>
+      <div class="form-marketeng">
+        <div class="form-marketeng__title">Узнай стоимость написания твоей работы</div>
+        <form class="form-marketeng__main">
+          <input class="input-text" type="text" placeholder="Тема работы">
+          <select class="select">
+            <option>Курсовая работа</option>
+            <option>Курсовая работа 2</option>
+            <option>Курсовая работа 3</option>
+            <option>Курсовая работа 4</option>
+            <option>Курсовая работа 5</option>
+          </select>
+          <input class="input-text" type="text" placeholder="Твой email">
+          <button class="btn">узнать стоимость</button>
+        </form>
+        <div class="form-marketeng__discount"><span class="form-marketeng__discount-emoji">🤑 </span> Бонус! Дарим 100 ₽ при регистрации <span class="form-marketeng__discount-emoji">🤑 </span></div>
       </div>
     </div>
     <div class="layout-2">
-      <h2 class="layout-2__title">Отзывы о нас</h2>
       <div class="layout-2__slider">
         <div class="layout-1__slider-item">
           <div class="review">
