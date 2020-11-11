@@ -725,8 +725,7 @@ p
     font-weight: normal;
     font-style: normal;
 
-    src: url('../fonts/Circe/Circe-Light.eot');
-    src: url('../fonts/Circe/Circe-Light.eot?#iefix') format('embedded-opentype'), url('../fonts/Circe/Circe-Light.svg#Circe-Light') format('svg'), url('../fonts/Circe/Circe-Light.ttf') format('truetype'), url('../fonts/Circe/Circe-Light.woff') format('woff'), url('../fonts/Circe/Circe-Light.woff2') format('woff2');
+    src: url('../fonts/Circe/Circe-Light.woff') format('woff'), url('../fonts/Circe/Circe-Light.woff2') format('woff2');
 }
 @font-face
 {
@@ -734,8 +733,7 @@ p
     font-weight: normal;
     font-style: normal;
 
-    src: url('../fonts/Circe/Circe-Bold.eot');
-    src: url('../fonts/Circe/Circe-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/Circe/Circe-Bold.svg#Circe-Bold') format('svg'), url('../fonts/Circe/Circe-Bold.ttf') format('truetype'), url('../fonts/Circe/Circe-Bold.woff') format('woff'), url('../fonts/Circe/Circe-Bold.woff2') format('woff2');
+    src: url('../fonts/Circe/Circe-Bold.woff') format('woff'), url('../fonts/Circe/Circe-Bold.woff2') format('woff2');
 }
 @font-face
 {
@@ -743,8 +741,7 @@ p
     font-weight: normal;
     font-style: normal;
 
-    src: url('../fonts/Circe/Circe-ExtraBold.eot');
-    src: url('../fonts/Circe/Circe-ExtraBold.eot?#iefix') format('embedded-opentype'), url('../fonts/Circe/Circe-ExtraBold.svg#Circe-Bold') format('svg'), url('../fonts/Circe/Circe-ExtraBold.ttf') format('truetype'), url('../fonts/Circe/Circe-ExtraBold.woff') format('woff'), url('../fonts/Circe/Circe-ExtraBold.woff2') format('woff2');
+    src: url('../fonts/Circe/Circe-ExtraBold.woff') format('woff'), url('../fonts/Circe/Circe-ExtraBold.woff2') format('woff2');
 }
 .btn
 {
@@ -1534,7 +1531,7 @@ body
             box-sizing: border-box;
     padding: 10.9375rem 10% 3.125rem;
 
-    background-image: url('../img/layout-1-bg-.jpg');
+    background-image: url('../img/layout-1-bg.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
